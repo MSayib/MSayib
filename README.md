@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Beckend Developer
+# 👨🏻‍💻 Backend Developer
 ![](https://komarev.com/ghpvc/?username=msayib)
 
 Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds joy in crafting remarkable web solutions. With a solid 3 years of hands-on experience in the dynamic world of web and software development.
@@ -88,8 +88,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 ## 📊 Stats
 
-<img align="center" src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" alt="msayib" />&nbsp;
-
+<p align="center"> <img src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp;
 
 ## 🚀  Portfolio
 
