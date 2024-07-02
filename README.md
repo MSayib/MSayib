@@ -89,7 +89,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 ## 📊 Stats
 
-<p align="center"> <img src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp;
+<p align="center"> <img src="https://github-readme-stats-qrrk-6k0yez36b.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp;
 
 ## 🚀  Portfolio
 
