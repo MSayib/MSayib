@@ -93,8 +93,9 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 ## 🚀  Portfolio
 
-Work in progress..
-[🛩️ Let's have a look there...](https://msayib.github.io/)
+Because im in my final semester on campus, I have decided to focus on my work both at the office and on campus for a while. 😷
+[My Github Page](https://msayib.github.io/)
+
 ## 📣 Latest activity
 
 I currently serve as a Backend Developer and am eager to explore freelance opportunities. Simultaneously, I engage in various personal projects and welcome collaboration on innovative endeavors. Additionally, I am a university student, continually expanding my skill set with exciting pursuits like 3D Modeling using Blender, learning Go, Kubernetes, ThreeJs, Geospatial technologies, Clean code, and more, aiming to evolve into a Creative Fullstack Developer.
