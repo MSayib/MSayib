@@ -54,8 +54,8 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="git" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp; 
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="git" width="40" height="40"/>&nbsp;  -->
 </div>
 
@@ -63,7 +63,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="xd" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="xd" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
 </div>
 
@@ -71,8 +71,8 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 <div style="display: flex; flex-direction: row;">
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="xd" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="xd" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/>&nbsp;
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
 </div>
 
@@ -82,9 +82,15 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="nginx" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>&nbsp; 
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="nginx" width="40" height="40"/>&nbsp;  -->
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="nginx" width="40" height="40"/>&nbsp;  -->
+</div>
+
+#### Caching
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>&nbsp; 
 </div>
 
 ## 📊 Stats
@@ -98,15 +104,16 @@ Because im in my final semester on campus, I have decided to focus on my work bo
 
 ## 📣 Latest activity
 
-I currently serve as a Backend Developer and am eager to explore freelance opportunities. Simultaneously, I engage in various personal projects and welcome collaboration on innovative endeavors. Additionally, I am a university student, continually expanding my skill set with exciting pursuits like 3D Modeling using Blender, learning Go, Kubernetes, ThreeJs, Geospatial technologies, Clean code, and more, aiming to evolve into a Creative Fullstack Developer.
+I currently serve as a Backend Developer and am eager to explore freelance opportunities. Simultaneously, I engage in various personal projects and welcome collaboration on innovative endeavors. Additionally, I am a university student, continually expanding my skill set learning CI/CD, Golang, Caching techniques, more Docker, Kubernetes, Geospatial technologies, Clean code, and more, aiming to evolve into a better Backend Developer until reaching Engineer standards.
 
 ## 👋🏻 Get in touch with me
 
 <p align="left">
-<a href="https://twitter.com/itsjustoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="faidfadjri" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/ibb.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faidfxdjri" height="30" width="40" /></a>&nbsp;
-<a href="https://www.facebook.com/MSayibR" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="msayibr" height="30" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/msayib" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="vaidz.capoeng" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/itsjustoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="twitter-x" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/ibb.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="instagram" height="30" width="40" /></a>&nbsp;
+<a href="https://www.facebook.com/MSayibR" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="facebook" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/msayib" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" height="30" width="40" /></a>&nbsp;
+<a href="https://discordapp.com/users/msayib" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="discord" height="30" width="40" /></a>&nbsp;
 </p>
 
 ---
