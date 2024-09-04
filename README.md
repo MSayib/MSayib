@@ -32,7 +32,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lumen/lumen-original.svg" alt="nodejs" width="40" height="40"/>&nbsp; 
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp; -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;  -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp; -->
 </div>
 
 ##### API Platform Tool
@@ -40,23 +40,23 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="xd" width="40" height="40"/>&nbsp;
 </div>
 
-#### Database
+#### Database & Caching
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="firebase" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;  -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="firebase" width="40" height="40"/>&nbsp;  -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="firebase" width="40" height="40"/>&nbsp; 
     <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;  -->
 </div>
 
-#### Versioning
+#### Versioning & Workflows
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="git" width="40" height="40"/>&nbsp;  -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="git" width="40" height="40"/>&nbsp; 
 </div>
 
 #### Design
@@ -70,7 +70,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 #### IDE
 
 <div style="display: flex; flex-direction: row;">
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="xd" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/>&nbsp;
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
@@ -85,12 +85,6 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>&nbsp; 
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="nginx" width="40" height="40"/>&nbsp;  -->
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="nginx" width="40" height="40"/>&nbsp;  -->
-</div>
-
-#### Caching
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>&nbsp; 
 </div>
 
 ## 📊 Stats
