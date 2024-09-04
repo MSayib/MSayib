@@ -40,13 +40,21 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="xd" width="40" height="40"/>&nbsp;
 </div>
 
+##### Management Tool & Productivity
+<div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" alt="trello" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>&nbsp;
+</div>
+
 #### Database & Caching
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="firebase" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="firebase" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>&nbsp; 
     <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;  -->
 </div>
 
@@ -56,7 +64,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="git" width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/>&nbsp; 
 </div>
 
 #### Design
