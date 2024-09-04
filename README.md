@@ -21,10 +21,10 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp; 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="react" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;  -->
-    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" alt="react" width="40" height="40"/>&nbsp;  -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="react" width="40" height="40"/>&nbsp;  -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="react" width="40" height="40"/>&nbsp;  -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp; -->
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" alt="react" width="40" height="40"/>&nbsp; -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="react" width="40" height="40"/>&nbsp; -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="react" width="40" height="40"/>&nbsp; -->
 </div>
 
 ##### Backend
@@ -55,7 +55,7 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;  -->
+    <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp; -->
 </div>
 
 #### Versioning & Workflows
@@ -91,13 +91,14 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="nginx" width="40" height="40"/>&nbsp;  -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="nginx" width="40" height="40"/>&nbsp;  -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="nginx" width="40" height="40"/>&nbsp; -->
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="nginx" width="40" height="40"/>&nbsp; -->
 </div>
 
 ## 📊 Stats
 
-<p align="center"> <img src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp;
+<!-- <p align="center"> <img src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp; -->
+<p align="center"> <img src="https://self-hosted-github-readme-stats.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp;
 
 ## 🚀  Portfolio
 
