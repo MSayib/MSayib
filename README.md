@@ -97,15 +97,19 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 ## 📊 Stats
 
-<!-- <p align="center"> <img src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp; -->
-<p align="center"> <img src="https://self-hosted-github-readme-stats.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600" alt="msayib" /></p>&nbsp;
+<img align="" width="57.5%" src="https://self-hosted-github-readme-stats.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=21600&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=msayib&cache_seconds=21600&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+
+<img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=msayib&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🚀  Portfolio
 
 Because im in my final semester on campus, I have decided to focus on my work both at the office and on campus for a while. 😷
 [My Github Page](https://msayib.github.io/)
 
-## 📣 Latest activity
+## 📣 FYI
 
 I currently serve as a Backend Developer and am eager to explore freelance opportunities. Simultaneously, I engage in various personal projects and welcome collaboration on innovative endeavors. Additionally, I am a university student, continually expanding my skill set learning CI/CD, Golang, Caching techniques, more Docker, Kubernetes, Geospatial technologies, Clean code, and more, aiming to evolve into a better Backend Developer until reaching Engineer standards.
 
