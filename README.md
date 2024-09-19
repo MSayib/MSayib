@@ -101,10 +101,6 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 
 <img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=msayib&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#257](https://github.com/ProgrammerZamanNow/qna/issues/257) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
-<!--END_SECTION:activity-->
-
 ## 🚀  Portfolio
 
 Because im in my final semester on campus, I have decided to focus on my work both at the office and on campus for a while. 😷
