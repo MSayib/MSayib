@@ -104,7 +104,8 @@ Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds j
 ## 🚀  Portfolio
 
 Because im in my final semester on campus, I have decided to focus on my work both at the office and on campus for a while. 😷
-[My Github Page](https://msayib.github.io/)
+<!-- [My Github Page](https://msayib.github.io/) -->
+[My Portfolio Web](https://ozzydev.vercel.app/)
 
 ## 📣 FYI
 
