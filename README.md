@@ -1,128 +1,75 @@
-
-# 👨🏻‍💻 Backend Developer
-![](https://komarev.com/ghpvc/?username=msayib)
-
-Hi! I'm Muhamad Sayib, a dedicated and experienced backend developer who finds joy in crafting remarkable web solutions. With a solid 4 years of hands-on experience in the dynamic world of web and software development.
-
-## ⭐️ Skillset
-
-#### Programming Language
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Muhamad+Sayib+👋🏻;Backend+Engineer+Extraordinaire;Laravel+%26+PHP+Enthusiast;Exploring+Go+%26+System+Design" alt="Typing SVG" />
 </div>
 
-#### Tools & Framework
-##### Frontend
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp; 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="react" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp; -->
-    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png" alt="react" width="40" height="40"/>&nbsp; -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="react" width="40" height="40"/>&nbsp; -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="react" width="40" height="40"/>&nbsp; -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=msayib&style=flat-square&color=41b883&label=Profile+Views" alt="Profile Views" />
 </div>
-
-##### Backend
-<div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lumen/lumen-original.svg" alt="nodejs" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp; -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="40" height="40"/>&nbsp; -->
-</div>
-
-##### API Platform Tool
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="xd" width="40" height="40"/>&nbsp;
-</div>
-
-##### Management Tool & Productivity
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>&nbsp;
-</div>
-
-#### Database & Caching
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp; -->
-</div>
-
-#### Versioning & Workflows
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/>&nbsp; 
-</div>
-
-#### Design
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="xd" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
-</div>
-
-#### IDE
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="xd" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/>&nbsp;
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="xd" width="40" height="40"/>&nbsp; -->
-</div>
-
-#### DevOps
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>&nbsp; 
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="nginx" width="40" height="40"/>&nbsp; -->
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="nginx" width="40" height="40"/>&nbsp; -->
-</div>
-
-## 📊 Stats
-
-<img align="" width="57.5%" src="https://github-readme-stats-theta-beryl.vercel.app/api?username=msayib&show_icons=true&layout=compact&cache_seconds=3600&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=msayib&cache_seconds=3600&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-
-<img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=msayib&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-
-## 🚀  Portfolio
-
-Because im in my final semester on campus, I have decided to focus on my work both at the office and on campus for a while. 😷
-<!-- [My Github Page](https://msayib.github.io/) -->
-[My Portfolio Web](https://ozzydev.vercel.app/)
-
-## 📣 FYI
-
-I currently serve as a Backend Developer and am eager to explore freelance opportunities. Simultaneously, I engage in various personal projects and welcome collaboration on innovative endeavors. Additionally, I am a university student, continually expanding my skill set learning CI/CD, Golang, Caching techniques, more Docker, Kubernetes, Geospatial technologies, Clean code, and more, aiming to evolve into a better Backend Developer until reaching Engineer standards.
-
-## 👋🏻 Get in touch with me
-
-<p align="left">
-<a href="https://twitter.com/itsjustoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="twitter-x" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/ibb.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="instagram" height="30" width="40" /></a>&nbsp;
-<a href="https://www.facebook.com/MSayibR" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="facebook" height="30" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/msayib" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" height="30" width="40" /></a>&nbsp;
-<a href="https://discordapp.com/users/msayib" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="discord" height="30" width="40" /></a>&nbsp;
-</p>
 
 ---
-*I might be not the best, but I'm trying to be better than yesterday.*
 
-Long life learner,<br>
-Sayib
+### 👨‍💻 About Me
+
+Hi! I'm **Muhamad Sayib Roziq** (Ozzy), a **Backend Developer** based in Jakarta, Indonesia 🇮🇩.
+
+With over **4 years** of hands-on experience in the PHP & Laravel ecosystem, I enjoy the challenge of crafting scalable and secure system architectures. Having recently graduated with a focus on **REST API & Repository Patterns**, I am now expanding my horizons into **Go (Golang)** and **System Engineering**.
+
+> *"Code is read much more often than it is written."*
+
+---
+
+### 🚀 Portfolio
+
+I'm currently renovating my digital home. Check out the latest progress on my portfolio here:
+
+<a href="https://ozzydev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+---
+
+### 🛠 Tech Stack
+
+I utilize a variety of tools to build reliable backend solutions.
+
+| Category | Stack |
+| :--- | :--- |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=php,go,js,html,css&theme=dark" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind&theme=dark" /> |
+| **Database & Cache** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman&theme=dark" /> |
+| **Productivity** | <img src="https://skillicons.dev/icons?i=vscode,notion,figma&theme=dark" /> |
+
+---
+
+### 🌱 Engineering Journey
+
+*I'm currently transitioning from building features to designing systems.*
+
+| Focus Area | What I'm Learning |
+| :--- | :--- |
+| **Infrastructure** | Moving from `docker-compose up` to practical **Kubernetes** orchestration and advanced container patterns. |
+| **Scalability** | Understanding the art of **Horizontal Scaling**, tackling concurrency with **Queues**, and optimizing latency with **Caching**. |
+| **Reliability** | Implementing **Observability** and **Error Tracking** because bugs shouldn't be a mystery in production. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msayib&bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&hide_border=true" width="100%" />
+</div>
+
+---
+
+### ⚡ Fun Facts & Connect
+- 🔭 **Side Quest:** Experimenting with AI agents & Open-Source LLMs.
+- 🎓 **Final Project:** REST API Architecture using Repository Pattern (SOLID).
+- ☕ **Fuel:** Coffee (Kapal Api Special Mix) 😄.
+- 🎮 **Downtime:** Roblox & Mobile Legends.
+
+<div align="center">
+  <br>
+  <a href="https://x.com/itsjustoji" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
+  <a href="https://www.threads.net/@ibb.ac" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/msayib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="mailto:work.sayib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+</div>
