@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Muhamad Sayib Roziq** (Ozzy), a **Backend Developer** based in Jakarta, Indonesia 🇮🇩.
+Hi! I'm **Muhamad Sayib Roziq** (Ozzy), a **Backend Engineer** based in Jakarta, Indonesia 🇮🇩.
 
 With over **4 years** of hands-on experience in the PHP & Laravel ecosystem, I enjoy the challenge of crafting scalable and secure system architectures. Having recently graduated with a focus on **REST API & Repository Patterns**, I am now expanding my horizons into **Go (Golang)** and **System Engineering**.
 
