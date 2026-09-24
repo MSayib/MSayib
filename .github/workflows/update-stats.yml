@@ -1,0 +1,35 @@
+name: Update GitHub Stats & Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph SVG
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: msayib
+          options: bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&hide_border=true&area=true
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update streak stats SVG
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=msayib&theme=tokyonight&background=0D1117&border=41B883&stroke=41B883&ring=41B883&fire=41B883&currStreakLabel=41B883&sideLabels=41B883&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=7A8B99&hide_border=true" > assets/streak-stats.svg
+
+      - name: Commit and push updated assets
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/activity-graph.svg assets/streak-stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(stats): auto-update activity & streak graphs [skip ci]" && git push)

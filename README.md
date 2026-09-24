@@ -1,75 +1,85 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Muhamad+Sayib+👋🏻;Backend+Engineer+Extraordinaire;Laravel+%26+PHP+Enthusiast;Exploring+Go+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Muhamad+Sayib+Roziq+👋🏻;Backend+%26+Distributed+Systems+Engineer;Golang+%26+PHP+(Laravel)+Specialist;Cloud+Architecture+(GCP+%26+AWS)+%26+Microservices;Agentic+AI+%26+Production+Reliability" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=msayib&style=flat-square&color=41b883&label=Profile+Views" alt="Profile Views" />
-</div>
+<p align="center">
+  <a href="https://msayib.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-msayib.github.io-41B883?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/msayib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:work.sayib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Muhamad Sayib Roziq** (Ozzy), a **Backend Engineer** based in Jakarta, Indonesia 🇮🇩.
+Hi! I'm **Muhamad Sayib Roziq, S.Kom** (Ozzy), a **Backend & Distributed Systems Engineer** based in Jakarta, Indonesia 🇮🇩.
 
-With over **4 years** of hands-on experience in the PHP & Laravel ecosystem, I enjoy the challenge of crafting scalable and secure system architectures. Having recently graduated with a focus on **REST API & Repository Patterns**, I am now expanding my horizons into **Go (Golang)** and **System Engineering**.
+With **5+ years of software engineering** and **4+ years of professional backend experience**, I specialize in architecting high-throughput enterprise ERP ecosystems, real-time data monitoring platforms, and scalable serverless backends on **Google Cloud Platform (GCP)** and **AWS**. I place strong emphasis on **Clean Architecture**, **SOLID principles**, modular monoliths, and seamless microservice decomposition.
 
-> *"Code is read much more often than it is written."*
+Beyond enterprise backend systems, I actively research and build **Agentic AI systems** (workflows, skills for AI coding agents, and cost-optimized RAG pipelines) and systems tooling in **Go** and **Luau**.
 
----
-
-### 🚀 Portfolio
-
-I'm currently renovating my digital home. Check out the latest progress on my portfolio here:
-
-<a href="https://ozzydev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+> *"Code is read much more often than it is written. Design for clarity, testability, and resilience."*
 
 ---
 
 ### 🛠 Tech Stack
 
-I utilize a variety of tools to build reliable backend solutions.
-
-| Category | Stack |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=php,go,js,html,css&theme=dark" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind&theme=dark" /> |
-| **Database & Cache** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman&theme=dark" /> |
-| **Productivity** | <img src="https://skillicons.dev/icons?i=vscode,notion,figma&theme=dark" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,php,ts,js,py,lua&theme=dark" alt="Languages" /> |
+| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,react,vue,tailwind&theme=dark" alt="Frameworks" /> |
+| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,supabase,firebase&theme=dark" alt="Databases" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=gcp,aws,docker,linux,nginx,git,github,postman&theme=dark" alt="Cloud & DevOps" /> |
+| **Productivity & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,idea,notion,figma&theme=dark" alt="Tools" /> |
 
 ---
 
-### 🌱 Engineering Journey
+### 🏗 Architecture & Engineering Focus
 
-*I'm currently transitioning from building features to designing systems.*
-
-| Focus Area | What I'm Learning |
-| :--- | :--- |
-| **Infrastructure** | Moving from `docker-compose up` to practical **Kubernetes** orchestration and advanced container patterns. |
-| **Scalability** | Understanding the art of **Horizontal Scaling**, tackling concurrency with **Queues**, and optimizing latency with **Caching**. |
-| **Reliability** | Implementing **Observability** and **Error Tracking** because bugs shouldn't be a mystery in production. |
+* **Distributed Systems & Monolith Modularization:** Applying Domain-Driven Design (DDD), Repository Design Patterns, and gRPC to decouple complex legacy systems into isolated, testable modules.
+* **Cloud Architecture & FinOps (GCP & AWS):** Designing serverless, event-driven platforms (Cloud Run, Cloud SQL, BigQuery, EC2) maintaining low latency across nationwide branches while optimizing cost-to-performance.
+* **Proactive Security & Governance:** Defense-in-depth with HTTP response header hardening (CSP, HSTS), secret scanning governance, and rapid incident triage.
+* **Agentic AI & Engineering Automation:** Developing structured agentic skills for AI coding agents (Claude Code, Google Antigravity, OpenAI Codex), zero-cost RAG pipelines, and local LLM evaluation.
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Highlight Projects
+
+* 🏢 **Enterprise ERP & Multi-Tenant Business Ecosystem** *(Enterprise / Cloud)*  
+  Architected an integrated enterprise ERP platform (Inventory & Warehouse, Asset Management, Finance & Accounting, Operations) sustaining nationwide business units on **Google Cloud Platform (Cloud Run, Cloud SQL, BigQuery)** with Clean Architecture & automated CI/CD.
+
+* 🤖 **[Roblox-Dev-Skill](https://github.com/MSayib/roblox-dev-suite)** *(Open Source / Agentic AI)*  
+  Standardized agentic skill suite for AI coding assistants (Claude Code, Google Antigravity, OpenAI Codex) covering Luau architecture, MicroProfiler performance analysis, and Roblox Studio MCP protocols.
+
+* 🧠 **Zero-Cost RAG AI Pipeline** *(Case Study / AI Engineering)*  
+  Designed an automated knowledge-retrieval pipeline using Langflow, web extractors, vector search (pgvector & AstraDB), and LiteLLM model proxies with zero operational hosting overhead.
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msayib&bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="./assets/activity-graph.svg" width="100%" alt="Muhamad Sayib's Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/streak-stats.svg" width="49%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=msayib&theme=tokyonight&background=0D1117&border=41B883&stroke=41B883&ring=41B883&fire=41B883&currStreakLabel=41B883&sideLabels=41B883&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=7A8B99&hide_border=true" width="49%" alt="Live Streak Stats" />
 </div>
 
 ---
 
 ### ⚡ Fun Facts & Connect
-- 🔭 **Side Quest:** Experimenting with AI agents & Open-Source LLMs.
-- 🎓 **Final Project:** REST API Architecture using Repository Pattern (SOLID).
-- ☕ **Fuel:** Coffee (Kapal Api Special Mix) 😄.
-- 🎮 **Downtime:** Roblox & Mobile Legends.
+
+- 🔭 **Current Quest:** Agentic AI coding workflows & Studio MCP tooling, Go systems engineering, and high-throughput enterprise backends.
+- 🎓 **Education:** Bachelor of Computer Science (S.Kom) in Informatics.
+- ☕ **Fuel:** A good coffee.
+- 🎮 **Downtime:** Roblox & Reading.
 
 <div align="center">
   <br>
-  <a href="https://x.com/itsjustoji" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
-  <a href="https://www.threads.net/@ibb.ac" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank" /></a>
-  <a href="https://www.linkedin.com/in/msayib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="mailto:work.sayib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="https://x.com/itsjustoji" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.threads.net/@ibb.ac" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
 </div>
