@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate activity graph SVG
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: msayib
           options: bg_color=0D1117&color=41B883&line=41B883&point=FFFFFF&hide_border=true&area=true
